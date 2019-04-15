@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Monzo Progression',
+    title: 'Novoda Progression',
   },
   plugins: [
     `gatsby-plugin-styled-components`,

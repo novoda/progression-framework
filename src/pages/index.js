@@ -53,15 +53,15 @@ export default class Index extends React.Component<Props> {
             </DescriptionText>
             <DescriptionText>
               To get involved, go to{' '}
-              <a href="https://github.com/monzo/progression-framework">
+              <a href="https://github.com/novoda/progression-framework">
                 <FontAwesomeIcon icon={faGithub} />{' '}
-                @monzo/progression-framework.
+                @novoda/progression-framework.
               </a>
             </DescriptionText>
             <DescriptionText>
               You can find out more about progression at Novoda and what it means
               for us in this{' '}
-              <a href="https://monzo.com/blog/2019/01/07/progression">
+              <a href="https://oops.com">
                 blog post.
               </a>
             </DescriptionText>

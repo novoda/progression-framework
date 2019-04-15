@@ -46,8 +46,7 @@ export default class Frameworks extends React.Component<Props> {
               <div className="grid-col-12 grid-col-6-md u-align-center-md">
                 <h3>Did you know&hellip;</h3>
                 <p>
-                  In 2008, there were 4,916 claims (totalling &pound;113,000)
-                  for bank notes which had been eaten by pets.
+                  Black is the new red.
                 </p>
                 <h1>🐶 🐱</h1>
               </div>
