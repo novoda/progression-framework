@@ -1,8 +1,8 @@
 ---
-path: "/marketing"
-title: "🎉 Marketing Framework"
-sidebarTitle: "🎉 Marketing"
-sidebarGroup:
+path: "/growth-marketing/client-services"
+title: "🎉 Client Services Framework"
+sidebarTitle: "🎉 Client Services"
+sidebarGroup: "Growth & Marketing"
 yaml: true
 levels: 7
 homepage: false
