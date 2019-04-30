@@ -1,8 +1,8 @@
 ---
-path: "/frameworks/people"
+path: "/frameworks/operations/people"
 title: "🙂 People"
 sidebarTitle: "🙂 People"
-sidebarGroup:
+sidebarGroup: "operations"
 yaml: true
 levels: 6
 homepage: false
