@@ -7,12 +7,12 @@ yaml: true
 levels: 3
 homepage: true
 topics:
-  - name: "communication"
+  - name: "Consulting"
     title:
     content:
       - level: 1
         criteria:
-          - "Provides regular status updates to their mentor/buddy"
+          - "Is an expert in this domain. Can implement solutions, plan consultancy sessions and train others"
           - "Points out syntactical improvements in code reviews"
           - "Writes PR descriptions that provide basic context for the change"
           - "Seeks guidance from other engineers, rather than answers"
