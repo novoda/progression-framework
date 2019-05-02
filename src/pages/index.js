@@ -29,7 +29,7 @@ export default class Index extends React.Component<Props> {
           </DescriptionTitleGroup>
           <Description>
             <DescriptionText>
-              This is where we keep the progression frameworks we use at Novoda.
+              Test auto deply. This is where we keep the progression frameworks we use at Novoda.
             </DescriptionText>
             <DescriptionText>
               Progression frameworks are tools that help us evaluate and pay our
