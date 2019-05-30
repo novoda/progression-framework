@@ -50,6 +50,19 @@ topics:
       - level: 3
         criteria:
           - "On your project, present to Client Services a way in which Engineering can help the client improve their product"   
+  - name: "recommended reading"
+    title: "Recommended reading"
+    content:
+      - level: 1
+        criteria:
+          - "Curious: The Desire to Know and Why Your Future Depends on It - Ian Leslie"
+      - level: 2
+        criteria:          
+          - "Clean Code - A Handbook of Agile Software Craftmanship - Robert C Martin"
+          - "The Clean Coder: A Code of Conduct for Professional Programmers - Robert C Martin"
+      - level: 3
+        criteria:
+          - "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman - Dave Hoover"
 ---
 ### Career Path
 - Product Engineer
