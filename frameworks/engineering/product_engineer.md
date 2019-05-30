@@ -33,7 +33,7 @@ topics:
           - "Transparent about mistakes they've made, early"
           - "Proactively gives timely actionable feedback to peers"
           - "Proactively seeks feedback from the people around them"
-          - "Considers the opinions of others before defending their own Hello?"
+          - "Considers the opinions of others before defending their own "
   - name: "impact"
     title:
     content:
