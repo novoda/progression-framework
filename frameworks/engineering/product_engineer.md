@@ -98,7 +98,7 @@ topics:
 
 ### Experience
 - Has strong knowledge of 2 core skills and is capable in 3 others
-- Matrix self-evaluation score - 42
+- [Matrix self-evaluation](https://docs.google.com/spreadsheets/d/1ttfRkbp2sfl69vepP-Pm-1ug42OmweD8jI_fMNTeJo8) score - 42
 - Concentrating on one platform
 - Able to gain familiarity with complex systems
 - familiar with Novoda’s values and implement these in every day work
