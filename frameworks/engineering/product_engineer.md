@@ -8,7 +8,7 @@ levels: 3
 homepage: true
 topics:
   - name: "competencies"
-    title:
+    title: "Competencies"
     content:
       - level: 1
         criteria:
@@ -37,8 +37,19 @@ topics:
           - "Appreciates context of own work and understands bigger picture"
           - "able to identify risks and issues in project and escalates when appropriate"
           - "Presents ideas and thoughts in effective manner"
-          - "Involved in workshops and is able to engage with team dynamics in order to solve a problem"
-
+          - "Involved in workshops and is able to engage with team dynamics in order to solve a problem"     
+  - name: "stretch assignments"
+    title: "Stretch assignments"
+    content:
+      - level: 1
+        criteria:
+          - "Open Pull Request on an open source project, and also review two others"     
+      - level: 2
+        criteria:          
+          - "Identify known or unknown technical debt in a project, and give a presentation on ways to reduce it"          
+      - level: 3
+        criteria:
+          - "On your project, present to Client Services a way in which Engineering can help the client improve their product"   
 ---
 ### Career Path
 - Product Engineer
