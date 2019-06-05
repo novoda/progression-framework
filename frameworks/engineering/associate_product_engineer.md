@@ -7,8 +7,8 @@ yaml: true
 levels: 3
 homepage: true
 topics:
-  - name: "Competencies"
-    title:
+  - name: "competencies"
+    title: "Competencies"
     content:
       - level: 1
         criteria:
@@ -32,8 +32,8 @@ topics:
           - "Takes responsibility for the successful management of a simple project through to achievement of the expected outcome"
 
 
-  - name: "Stretch assignments"
-    title:
+  - name: "stretch assignments"
+    title: "Stretch assignments"
     content:
       - level: 1
         criteria:
@@ -44,8 +44,8 @@ topics:
       - level: 3
         criteria:
           - "Write a white paper or blog on how to make & improve the decisions around quality, speed, cost of the Engineering delivery of a project"
-  - name: "Recommended reading"
-    title: 
+  - name: "recommended reading"
+    title: "Recommended reading"
     content:
       - level: 1
         criteria:
