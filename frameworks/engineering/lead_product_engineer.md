@@ -62,12 +62,10 @@ topics:
 - Shares knowledge and experience with others and proactively coaches and develops others
 - Discusses impact of other disciplines on area of work with confidence and knowledge
 
-
 ### Communication and Collaboration
 - Communicates with other project teams and is able to understand other people’s positions in debate. Is able to detach themselves personally from any solution, facilitates conversation and enables others to freely express their opinion
 - Advises on product definition, delivery, working practices and team structure
 - Is developing leadership skills and sharing expertise
-
 
 ### Delivery
 - Has specialties in the skills matrix and can comfortably engage others to increase their skill levels 
@@ -78,11 +76,9 @@ topics:
 - Can comfortably make decisions across all platforms and understands impact across all platforms 
 - Builds, supports and automates current tools, ensuring reliability, availability, scalability and performance. Automates only when a benefit, as opposed to all the time. 
 
-
 ### Novoda
 - Always learning and teaching others through guidance and delegation
-- Contributes and gives back to the community. Has own network of external peers. Has recognised credentials externally.
-- Demonstrates Novoda’s values both internally and externally. 
+- Contributes and gives back to the community. Has own network of external peers. Has recognised credentials externally.- Demonstrates Novoda’s values both internally and externally. 
 
 
 ### Experience
