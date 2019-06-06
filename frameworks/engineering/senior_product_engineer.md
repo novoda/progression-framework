@@ -33,13 +33,13 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Investigate different programming paradigms or platforms and present to the company something we are not looking at / working in"
+          - "Investigate different programming paradigms or platforms and present to the company something we are not looking at or not working in"
       - level: 2
         criteria:          
-          - "Present to the client a view on their project that they are unaware of, finishing with recommendations for work/improvements - have the end users of the product in mind"          
+          - "Present to the client a view on their project that they are unaware of, finishing with recommendations for work or improvements - have the end users of the product in mind"          
       - level: 3
         criteria:
-          - "Gain insights from a wider audience than Novoda. Then share with a public audience on the topic of client satisfaction, team dynamics and/or programming paradigms, platforms"   
+          - "Gain insights from a wider audience than Novoda. Then share with a public audience on the topic of client satisfaction, team dynamics and,or programming paradigms, platforms"   
   - name: "recommended reading"
     title: "Recommended reading"
     content:
