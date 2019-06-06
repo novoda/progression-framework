@@ -7,7 +7,7 @@ yaml: true
 levels: 3
 homepage: true
 topics:
- - name: "competencies"
+  - name: "competencies"
     title: "Competencies"
     content:
       - level: 1
