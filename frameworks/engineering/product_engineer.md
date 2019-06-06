@@ -49,7 +49,7 @@ topics:
           - "Identify known or unknown technical debt in a project, and give a presentation on ways to reduce it"          
       - level: 3
         criteria:
-          - "On your project, present to Client Services a way in which Engineering can help the client improve their product"   
+          - "On your project, present to Client Services a way in which Engineering can help the client improve their product" 
   - name: "recommended reading"
     title: "Recommended reading"
     content:
