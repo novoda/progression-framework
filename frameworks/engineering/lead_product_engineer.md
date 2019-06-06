@@ -24,8 +24,8 @@ topics:
           - "Takes responsibility for the successful delivery of a project"
       - level: 3
         criteria:
-          - "Can resolve large scale project issues to deliver stated aims / outcome"
-          - "Is able to cope with unusual / non-standard problems and issues. Has the confidence and ability to recommend alternatives and approaches to all situations, and is not reluctant to challenge the status quo"
+          - "Can resolve large scale project issues to deliver stated aims or outcome"
+          - "Is able to cope with unusual or non-standard problems and issues. Has the confidence and ability to recommend alternatives and approaches to all situations, and is not reluctant to challenge the status quo"
           - "Identifies best industry practice and trends through external network"
           - "Assists client in translating product vision and wider business strategy into a software solution, and evidences how desired business outcomes will be met through the proposed changes"
   - name: "stretch assignments"
