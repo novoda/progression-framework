@@ -30,8 +30,6 @@ topics:
           - "Identifies risk and is able to propose mitigation"
           - "Converts business requirements into project requirements and inputs these into software development specifications on small scale projects"
           - "Takes responsibility for the successful management of a simple project through to achievement of the expected outcome"
-
-
   - name: "stretch assignments"
     title: "Stretch assignments"
     content:
@@ -65,7 +63,6 @@ topics:
 - Works in one or more stages of project delivery
 - Shows the ability to draw and close own deliverables
 
-
 ### Communication and Collaboration
 - Can work independently following briefing
 - Is able to explain work to others in simple terms and takes the lead in pairing exercises
@@ -74,13 +71,11 @@ topics:
 - Can communicate benefits and rationale of work / chosen delivery method to peers and stakeholders
 - Presents a positive image internally
 
-
 ### Delivery
 - Is actively engaged in the skills matrix and understands gaps in knowledge
 - Actively improves behaviour to improve reporting measures
 - Focuses on gaining technical expertise both by deepening and widening knowledge, and is working on becoming a confident communicator
 - Demonstrates an understanding of development methodologies, frameworks and tools
-
 
 ### Novoda
 - Is self-motivated in their learning and actively looking for further learning opportunities
