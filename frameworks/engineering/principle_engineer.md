@@ -32,7 +32,6 @@ topics:
           - "Act as focal point for the profession"
           - "Maintains a holistic view of Novoda and the wider business environment to monitor potential risks and exposures"
           - "Promotes Engineering vision to staff at all levels of the organisation"
-  
   - name: "stretch assignments"
     title: "Stretch assignments"
     content:
@@ -68,7 +67,6 @@ topics:
 - Advises on the design of quality assurance processes
 - Is a trusted advisor to the client
 
-
 ### Communication and Collaboration
 - Sets the direction for learning and can report changes and improvements 
 - Guides debate and discussion, and has an insight into the discussions of others. Is able to understand what information needs to be shared across the wider business, and with whom 
@@ -90,7 +88,6 @@ topics:
 - Has a wide public impact, and is able to help others improve their own public profile
 - Is always looking for new opportunities to raise public profile further
 guides the activity of others with cutting edge knowledge and leadership
-
 
 ### Experience
 - Expert in three, strong in five, capable in three other core skills
