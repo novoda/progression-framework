@@ -29,44 +29,30 @@ export default class Index extends React.Component<Props> {
           </DescriptionTitleGroup>
           <Description>
             <DescriptionText>
-              Test auto deply. This is where we keep the progression frameworks we use at Novoda.
+               Test auto deply. This is where we keep the progression frameworks we use at Novoda.
+            </DescriptionText>
+            <b>Purpose</b>
+            <DescriptionText>
+               The purpose of this framework is to empower everyone at Novoda to take ownership of their career and growth. The framework can be used as a tool to hone your skills and understand which competencies you need to reach your goals and aspirations. We hope this will accelerate your journey in reaching your full potential. 
             </DescriptionText>
             <DescriptionText>
-              Progression frameworks are tools that help us evaluate and pay our
-              staff consistently, and help people understand how to progress in
-              their work.
+               We want to provide clarity and transparency around growth and development opportunities and enable people to build on their strengths. Our career progression path is in place to help you visualise your future success, and to encourage everyone to challenge and be challenged in a constructive and supportive environment. 
             </DescriptionText>
             <DescriptionText>
-              We&apos;ve put them here for everyone at Novoda (and anyone in the
-              world!) to use.
+               We want your journey at Novoda to not just be a job. We want to support you in pursuing a career that challenges you and helps you grow no matter what your starting point is. While we hope that you will learn a huge amount in your time at Novoda, we also want to create an environment where you can form friendships, have fun and be inspired.
             </DescriptionText>
             <DescriptionText>
-              We&apos;ll be adding more frameworks as we build them, and
-              updating existing ones as we grow, so expect things to change
-              around here!
+               We know that everyone has unique ideas, strengths and perspectives to bring to the table, and we value everyone’s uniqueness. Our career progression framework and personal journey plan will ensure that you get to where you want to be. 
             </DescriptionText>
             <DescriptionText>
-              This site, along with all our progression frameworks, are open
-              source. That means you can contribute to the development of this
-              site or our progression frameworks, and use both as inspiration
-              for your own projects!
+               Do you ever ask yourself:
+               Where is Atlantis located? <br/>
+               How far can a cat fall without injury? <br/>
+               How much time of their life does the average person spend waiting at a traffic light?<br/> 
+               How might we create a career development path for everyone at Novoda that is engaging, challenging and fun? <br/>
             </DescriptionText>
             <DescriptionText>
-              To get involved, go to{' '}
-              <a href="https://github.com/novoda/progression-framework">
-                <FontAwesomeIcon icon={faGithub} />{' '}
-                @novoda/progression-framework.
-              </a>
-            </DescriptionText>
-            <DescriptionText>
-              You can find out more about progression at Novoda and what it means
-              for us in this{' '}
-              <a href="https://oops.com">
-                blog post.
-              </a>
-            </DescriptionText>
-            <DescriptionText>
-              Take a look around and let us know what you think! 🚀
+               At Novoda, we value curiosity, are passionate about sharing knowledge and strive to find out more about the world we live in every day. The first step to learning is asking questions. Our career progression framework contains recommended reading and stretch assignments for each role, so you can learn something new and step out of your comfort zone.
             </DescriptionText>
           </Description>
         </DescriptionView>
