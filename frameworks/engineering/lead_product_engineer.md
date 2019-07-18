@@ -1,7 +1,7 @@
 ---
 path: "/engineering/lead-product-eng"
 title: "Lead Product Engineer Framework"
-sidebarTitle: "📘Lead Product Engineer"
+sidebarTitle: "📝Lead Product Engineer"
 sidebarGroup: "engineering"
 yaml: true
 levels: 3
