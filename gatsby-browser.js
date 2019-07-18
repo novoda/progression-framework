@@ -1,6 +1,6 @@
 const ReactGA = require('react-ga')
 
-ReactGA.initialize('UA-63104269-2')
+ReactGA.initialize('UA-6182198-9')
 ReactGA.set({
   appName: 'Progression at Novoda'
 })
