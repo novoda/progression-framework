@@ -1,7 +1,7 @@
 ---
 path: "/engineering/snr-product-eng"
 title: "Senior Product Engineer Framework"
-sidebarTitle: "👾Senior Product Engineer"
+sidebarTitle: "🥳Senior Product Engineer"
 sidebarGroup: "engineering"
 yaml: true
 levels: 3
