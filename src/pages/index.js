@@ -28,10 +28,7 @@ export default class Index extends React.Component<Props> {
             <Title>Progression at Novoda 🎉</Title>
           </DescriptionTitleGroup>
           <Description>
-            <DescriptionText>
-               Test auto deply. This is where we keep the progression frameworks we use at Novoda.
-            </DescriptionText>
-            <b>Purpose</b>
+            <Subtitle>Purpose</Subtitle>
             <DescriptionText>
                The purpose of this framework is to empower everyone at Novoda to take ownership of their career and growth. The framework can be used as a tool to hone your skills and understand which competencies you need to reach your goals and aspirations. We hope this will accelerate your journey in reaching your full potential. 
             </DescriptionText>
@@ -46,6 +43,8 @@ export default class Index extends React.Component<Props> {
             </DescriptionText>
             <DescriptionText>
                Do you ever ask yourself:
+            </DescriptionText>
+            <DescriptionText>
                Where is Atlantis located? <br/>
                How far can a cat fall without injury? <br/>
                How much time of their life does the average person spend waiting at a traffic light?<br/> 
