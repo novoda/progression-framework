@@ -1,7 +1,7 @@
 ---
 path: "/engineering/product-eng"
-title: "👩‍💻 Product Engineer Framework"
-sidebarTitle: "👩‍💻 Product Engineer"
+title: "Product Engineer Framework"
+sidebarTitle: "📔Product Engineer"
 sidebarGroup: "engineering"
 yaml: true
 levels: 3
