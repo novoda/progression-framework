@@ -44,6 +44,7 @@ export default class Guide extends React.Component<Props> {
             <DescriptionText>
                When you first step into a role, you will likely be at level 1. Once you have spent some time at this level and completed a stretch assignment, you may have a go at attempting level 2. By the time you reach level 3, you may well be ready to start preparing yourself to progress to the next role. 
             </DescriptionText>
+            <DescriptionText>
                <b>Objective setting</b>
             </DescriptionText>
             <DescriptionText>
