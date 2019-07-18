@@ -35,20 +35,7 @@ export default class Frameworks extends React.Component<Props> {
                 </ErrorPageLink>
               </div>
               <div className="grid-col-12 grid-col-4-md">
-                <LowFundsAnimation />
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="strip">
-          <div className="container">
-            <div className="grid-row grid-row--center">
-              <div className="grid-col-12 grid-col-6-md u-align-center-md">
-                <h3>Did you know&hellip;</h3>
-                <p>
-                  Black is the new red.
-                </p>
-                <h1>🐶 🐱</h1>
+                
               </div>
             </div>
           </div>
