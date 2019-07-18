@@ -1,7 +1,7 @@
 ---
 path: "/engineering/associate-product-eng"
-title: "👩‍💻 Associate Product Engineer Framework"
-sidebarTitle: "👩‍💻 Associate Product Engineer"
+title: "Associate Product Engineer Framework"
+sidebarTitle: "📕Associate Product Engineer"
 sidebarGroup: "engineering"
 yaml: true
 levels: 3
