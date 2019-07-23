@@ -100,7 +100,6 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
     frameworkGroups = Array.from(new Set(frameworkGroups).values())
 
     const frameworkElement = frameworkGroups
-    .sort()
     .map(group => {
       let obj = {}
       obj[group] = edges
