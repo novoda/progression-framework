@@ -106,7 +106,7 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
         .filter(edge => {
           return edge.node.frontmatter.sidebarGroup === group
         })
-        .sort()
+        .sort(function(edgeA,edgeB){return edgeA.node.frontmatter.sidebarTitle < edgeB.node.frontmatter.sidebarTitle})
         .map(edge => {
           const content = edge.node.frontmatter
 
