@@ -102,7 +102,7 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
     const frameworkElement = frameworkGroups
     .map(group => {
       let obj = {}
-      obj[group] = = edges
+      obj[group] = edges
       .filter(edge => {
         return edge.node.frontmatter.sidebarGroup === group
       })
