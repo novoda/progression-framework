@@ -102,49 +102,44 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
     const frameworkElement = frameworkGroups
     .map(group => {
       let obj = {}
-        let a = edges
-        .filter(edge => {
-          return edge.node.frontmatter.sidebarGroup === group
-        });
-        let b = a
-        .sort(function(edgeA,edgeB){
-          let titleA = edgeA.node.frontmatter.sidebarTitle
-          let titleB = edgeB.node.frontmatter.sidebarTitle
-          console.log('A ' + titleA + ' B ' + titleB)
-          console.log('A ' + titleA.codePointAt(0) + ' B ' + titleB.codePointAt(0))
-          let a = titleA.codePointAt(0)
-          let b = titleB.codePointAt(0)        
-          if(a.codePointAt(0) < b.codePointAt(0)){ return -1 };
-          if(a.codePointAt(0) > b.codePointAt(0)){ return 1 };
-          return 0
-        })
-        let c = b
-        .map(edge => {
-          const content = edge.node.frontmatter
+      obj[group] = = edges
+      .filter(edge => {
+        return edge.node.frontmatter.sidebarGroup === group
+      })
+      .sort(function(edgeA,edgeB){
+        let titleA = edgeA.node.frontmatter.sidebarTitle
+        let titleB = edgeB.node.frontmatter.sidebarTitle
+        let emojiTitleA = titleA.codePointAt(0)
+        let emojiTitleB = titleB.codePointAt(0)        
+        if(emojiTitleA < emojiTitleB){ return -1 };
+        if(emojiTitleA > emojiTitleB){ return 1 };
+        return 0
+      })
+      .map(edge => {
+        const content = edge.node.frontmatter
 
-          if (content.sidebarTitle === '📄 Generic') {
-              return <React.Fragment key={Math.random()} />
-          }
-          
-          if (emojiRegex.exec(content.sidebarTitle)) {
-            let sidebarEmoji = content.sidebarTitle.match(emojiRegex)[0]
-            let sidebarTitle = content.sidebarTitle
-              .replace(sidebarEmoji, ' ')
-              .trim()
+        if (content.sidebarTitle === '📄 Generic') {
+            return <React.Fragment key={Math.random()} />
+        }
 
-            return (
-              <ListElement key={edge.node.id}>
-                <StyledLink to={content.path} state={{ openedTopics }}>
-                  <EmojiListItem>{sidebarEmoji}</EmojiListItem>
-                  {sidebarTitle}
-                </StyledLink>
-              </ListElement>
-            )
-          }
-        })
-      obj[group] = c
-      return obj
-    })
+        if (emojiRegex.exec(content.sidebarTitle)) {
+          let sidebarEmoji = content.sidebarTitle.match(emojiRegex)[0]
+          let sidebarTitle = content.sidebarTitle
+            .replace(sidebarEmoji, ' ')
+            .trim()
+
+          return (
+            <ListElement key={edge.node.id}>
+              <StyledLink to={content.path} state={{ openedTopics }}>
+                <EmojiListItem>{sidebarEmoji}</EmojiListItem>
+                {sidebarTitle}
+              </StyledLink>
+            </ListElement>
+          )
+        }
+      })
+    return obj
+   })
 
     return (
       <React.Fragment>
