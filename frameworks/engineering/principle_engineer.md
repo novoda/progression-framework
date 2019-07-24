@@ -1,7 +1,7 @@
 ---
 path: "/engineering/principle-eng"
-title: "Principle Engineer Framework"
-sidebarTitle: "🥝Principle Engineer"
+title: "Principal Engineer Framework"
+sidebarTitle: "🥝Principal Engineer"
 sidebarGroup: "engineering"
 yaml: true
 levels: 3
