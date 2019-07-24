@@ -102,10 +102,11 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
     const frameworkElement = frameworkGroups
     .map(group => {
       let obj = {}
-      obj[group] = edges
+        let a = edges
         .filter(edge => {
           return edge.node.frontmatter.sidebarGroup === group
-        })
+        });
+        let b = a
         .sort(function(edgeA,edgeB){
           let titleA = edgeA.node.frontmatter.sidebarTitle
           let titleB = edgeB.node.frontmatter.sidebarTitle
@@ -117,11 +118,13 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
           console.log('Result ' + result)
           return result
         })
+        let c = b
         .map(edge => {
           let title = edge.node.frontmatter.sidebarTitle
           console.log('Title: ' + title)
           return edge
         })
+        let d = c
         .map(edge => {
           const content = edge.node.frontmatter
 
@@ -145,7 +148,7 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
             )
           }
         })
-
+      obj[group] = d
       return obj
     })
 
