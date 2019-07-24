@@ -111,7 +111,9 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
           let titleB = edgeB.node.frontmatter.sidebarTitle
           console.log('A ' + titleA + ' B ' + titleB)
           console.log('A ' + titleA.codePointAt(0) + ' B ' + titleB.codePointAt(0))
-          let result = edgeA.node.frontmatter.sidebarTitle < edgeB.node.frontmatter.sidebarTitle
+          let emojiCodePointA = titleA.codePointAt(0)
+          let emojiCodePointB = titleB.codePointAt(0)
+          let result = emojiCodePointA < emojiCodePointB
           console.log('Result ' + result)
           return result
         })
