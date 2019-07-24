@@ -112,11 +112,11 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
           let titleB = edgeB.node.frontmatter.sidebarTitle
           console.log('A ' + titleA + ' B ' + titleB)
           console.log('A ' + titleA.codePointAt(0) + ' B ' + titleB.codePointAt(0))
-          let emojiCodePointA = titleA.codePointAt(0)
-          let emojiCodePointB = titleB.codePointAt(0)
-          let result = emojiCodePointA > emojiCodePointB
-          console.log('Result ' + result)
-          return result ? 1 : 0
+          let a = titleA.codePointAt(0)
+          let b = titleB.codePointAt(0)        
+          if(a.codePointAt(0) < b.codePointAt(0)){ return -1 };
+          if(a.codePointAt(0) > b.codePointAt(0)){ return 1 };
+          return 0
         })
         let c = b
         .map(edge => {
@@ -133,7 +133,7 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
               .trim()
 
             return (
-              <ListElement key={Math.random()}>
+              <ListElement key={edge.node.id}>
                 <StyledLink to={content.path} state={{ openedTopics }}>
                   <EmojiListItem>{sidebarEmoji}</EmojiListItem>
                   {sidebarTitle}
