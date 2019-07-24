@@ -114,7 +114,7 @@ class SidebarBuilder extends React.Component<SidebarProps, SidebarState> {
           console.log('A ' + titleA.codePointAt(0) + ' B ' + titleB.codePointAt(0))
           let emojiCodePointA = titleA.codePointAt(0)
           let emojiCodePointB = titleB.codePointAt(0)
-          let result = emojiCodePointA < emojiCodePointB
+          let result = emojiCodePointA > emojiCodePointB
           console.log('Result ' + result)
           return result ? 1 : 0
         })
