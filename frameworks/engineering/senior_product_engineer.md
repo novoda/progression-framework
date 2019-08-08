@@ -13,7 +13,7 @@ topics:
       - level: 1
         criteria:
           - "Is able to work with client as well as internal stakeholders to meet consistent and reliable deliverables"
-          - "Able to deliver elegant and simple solutions from ill-defined problem"
+          - "Able to craft simple solutions for vague problems that are difficult to grasp"
           - "Is developing an understanding of commercial implications of projects"
           - "Is able to present technical and non-technical information to a wide range of audiences in an engaging, impactful and coherent manner"
       - level: 2
@@ -71,7 +71,7 @@ topics:
 
 ### Delivery
 - Informs and maintains logical and coherent product definition and delivery, and recommends new working practices
-- Has competence and requisite experience within chosen specialism to work independently of others and is able to complete most tasks using own judgement 
+- Can work independently of others and is able to complete most tasks without close assistance
 - Is a driver for innovation and continuous improvement, and is able to find tasks for themselves
 - Has an awareness of commercial implications of a project, ensuring fit within targeted benefits and cost parameters
 - takes ownership of reporting measures and is able to highlight potential risks and issues affecting these. Can recommend mitigation to ensure quality, time and scope of objectives is met
