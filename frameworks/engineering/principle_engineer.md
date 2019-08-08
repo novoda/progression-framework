@@ -15,22 +15,22 @@ topics:
           - "Takes responsibility for the successful direction and implementation of a project. Successfully balances client and project needs against the needs and ambitions of Novoda project team members"
           - "Is a coach and mentor to others in the team"
           - "Takes a leadership position, and works closely together with other business functions as well as the leadership team"
-          - "Ensures Novoda’s standards are adhered to in projects and that business outcomes are achieved"
+          - "Ensures that Novoda's working practices are adhered to in projects and that deliverables are achieved"
           - "Ensures that Novoda’s values are upheld in all activities within the business"
           - "Drive positive culture that fosters innovation within team"
-          - "Can produce and confidently explain complex delivery plans"
+          - "Can create complex project plans and clearly articulates those to the client and the team"
       - level: 2
         criteria:
-          - "Thinks strategically as well as commercially for the benefit of the client’s and Novoda’s longer term growth"
+          - "Has a strategic and commercial vision for the benefit of Novoda's growth"
           - "Provides strong leadership and engagement with senior management, including the development of new opportunities for other team members"
           - "Defines training needs for the team, keeping up with industry trends"
-          - "Is able to comprehensively identify risks, issues and dependencies within a project plan and produces coherent strategies to mitigate these"
+          - "can identify a wide range of risks, issues and dependencies and ensures that these can be mitigated in a reliable manner"
       - level: 3
         criteria:
-          -  "Imparts knowledge and understanding within the wider business, and ensures continuous improvement of the methodology and tools used within the discipline"
+          -  "Shares knowledge and expertise within the business and ensures that the tools, technologies and methodology used at Novoda are always improving"
           - "Shapes structure of the engineering teams to ensure high performance"
           - "Act as focal point for the profession"
-          - "Maintains a holistic view of Novoda and the wider business environment to monitor potential risks and exposures"
+          - "Maintains a holistic view of Novoda and the wider business environment to understand business risk"
           - "Promotes Engineering vision to staff at all levels of the organisation"
   - name: "stretch assignments"
     title: "Stretch assignments"
