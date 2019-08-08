@@ -12,7 +12,7 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Appreciates complex situations, and is able to achieve results on small, less complex tasks" 
+          - "Has an understanding of the wider context of complex situations, and can achieve results on small, simple tasks" 
           - "Connects theoretical knowledge and practical learning"
           - "Conveys work progress in accurate, fluent and succinct manner"
           - "Is actively working to fill gaps in knowledge, and demonstrates continuous learning and improvement in work"
@@ -22,14 +22,14 @@ topics:
           - "Can explain benefits and rationale of engineering solutions and decisions"
           - "Understands long-term impact of short-term actions, and wider context of small scale projects"
           - "Can hold delivery partners to account within the development process"
-          - "Identifies scope and technical priorities for small scale changes"
+          - "Defines and identifies scope for technical priorities and small scale changes"
           - "Is able to critically assess working practices and can suggest areas for improvement"
       - level: 3
         criteria:
-          - "Proactively identifies tasks that need to be completed, and initiates these without being directed"
+          - "Independetly seeks out tasks that need to be completed and takes initiative without being directed"
           - "Identifies risk and is able to propose mitigation"
-          - "Converts business requirements into project requirements and inputs these into software development specifications on small scale projects"
-          - "Takes responsibility for the successful management of a simple project through to achievement of the expected outcome"
+          - "Can confidently translate business requirements into project requirements and inputs these into software development specifications on small scale projects"
+          - "Takes ownership of the successful management and delivery of a simple project from start to finish"
   - name: "stretch assignments"
     title: "Stretch assignments"
     content:
@@ -57,7 +57,7 @@ topics:
 ---
 ### Consulting
 - Has limited familiarity with the subject but understands domain and can have a discussion
-- Understands the needs of the business situation or project, and can achieve project team agreement on key tasks, deliverables, outcomes and responsibilities. Is aware of core business structures, processes, management and disciplines
+- Has an understanding of project needs and can achieve team consensus on tasks, deliverables, outcomes and responsibilities. Is aware of core business structures, processes, management and disciplines
 - Researches and understands client agenda and issues
 - Identifies and uses a wide range of knowledge sources
 - Works in one or more stages of project delivery
