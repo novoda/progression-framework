@@ -14,18 +14,17 @@ topics:
         criteria:
           - "Successfully leads, coaches and motivates the team, personally providing coaching where necessary"
           - "Is able to balance competing demands of multiple stakeholders, and ensures wellbeing of team on project"
-          - "Demonstrates gravitas in client-facing meetings to gain credibility from senior stakeholders and is well prepared and knowledgeable"
+          - "Demonstrates the necessary gravitas in client meetings to gain credibility and achieve buy in from senior stakeholders and decision makers"
           - "Manages and influences stakeholders"
       - level: 2
         criteria:
-          - "Acts as an advisor to the project and the business, working at a strategic and tactical level in the pursuit of growth and and general business improvement"
+          - "Acts within an advisory capacity within the project and the business and fosters growth and improvement at a strategic level"
           - "Leads software solution design across multiple projects"
           - "Is able to resolve most problems and will only require assistance on specialist, or high profile issues"
           - "Takes responsibility for the successful delivery of a project"
       - level: 3
         criteria:
-          - "Can resolve large scale project issues to deliver stated aims or outcome"
-          - "Is able to cope with unusual or non-standard problems and issues. Has the confidence and ability to recommend alternatives and approaches to all situations, and is not reluctant to challenge the status quo"
+          - "Is able to find solutions to unusual problems and issues and has the confidence to propose innovative alternatives"
           - "Identifies best industry practice and trends through external network"
           - "Assists client in translating product vision and wider business strategy into a software solution, and evidences how desired business outcomes will be met through the proposed changes"
   - name: "stretch assignments"
@@ -72,7 +71,7 @@ topics:
 - Picking measures and reports that should be adhered to or insights that should be tracked Sharing these outside the immediate project. 
 - Identifies tasks and delegates to others
 - Creates materials and guidances for others to improve, whilst gathering feedback and insight
-- Presents a balanced view of the project, highlighting risks and issues, as well as positive progress
+- Can present a balanced, realistic view of a project, including risks, issues, mitigations and positive progress
 - Can comfortably make decisions across all platforms and understands impact across all platforms 
 - Builds, supports and automates current tools, ensuring reliability, availability, scalability and performance. Automates only when a benefit, as opposed to all the time. 
 
