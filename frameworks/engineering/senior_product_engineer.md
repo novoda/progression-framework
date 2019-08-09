@@ -70,10 +70,10 @@ topics:
 
 
 ### Delivery
-- Informs and maintains logical and coherent product definition and delivery, and recommends new working practices
+- Defines logical product definition and delivery, and recommends new working practices
 - Can work independently of others and is able to complete most tasks without close assistance
 - Is a driver for innovation and continuous improvement, and is able to find tasks for themselves
-- Has an awareness of commercial implications of a project, ensuring fit within targeted benefits and cost parameters
+- Has an awareness of commercial implications of a project
 - takes ownership of reporting measures and is able to highlight potential risks and issues affecting these. Can recommend mitigation to ensure quality, time and scope of objectives is met
 - Contributes to the development of software specifications and integration specifications
 - Builds, supports and automates current tools, ensuring reliability, availability, scalability and performance
@@ -83,6 +83,7 @@ topics:
 ### Novoda
 - Actively blogging and speaking at conferences at regular intervals. Encourages others to do the same. 
 - Is always learning but looking for opportunities to teach others and learn through teaching. 
+- Feeds into growth and marketing team to co-produce marketing collateral such as case studies.
 
 
 ### Experience
