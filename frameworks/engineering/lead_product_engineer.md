@@ -73,11 +73,13 @@ topics:
 - Creates materials and guidances for others to improve, whilst gathering feedback and insight
 - Can present a balanced, realistic view of a project, including risks, issues, mitigations and positive progress
 - Can comfortably make decisions across all platforms and understands impact across all platforms 
-- Builds, supports and automates current tools, ensuring reliability, availability, scalability and performance. Automates only when a benefit, as opposed to all the time. 
+- Builds, supports and automates current tools, ensuring reliability, availability, scalability and performance. Automates when appropriate, as opposed to all the time. 
 
 ### Novoda
 - Always learning and teaching others through guidance and delegation
 - Contributes and gives back to the community. Has own network of external peers. Has recognised credentials externally.- Demonstrates Novoda’s values both internally and externally. 
+- Feeds into growth and marketing team to co-produce collateral such as case studies and pitch materials. 
+- Takes a consultative approach towards pitch work and devieses strategy for future client proposals.
 
 
 ### Experience
