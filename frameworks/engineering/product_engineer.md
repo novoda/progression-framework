@@ -95,6 +95,7 @@ topics:
 - Learns from peers and through hands on experience.
 - Has a minimal public profile, although starting to share internally.
 - Is motivated to learn new skills and gain tacit knowledge from Novoda.
+- Shares knowledge through blog posts.
 
 ### Experience
 - Has strong knowledge of 2 core skills and is capable in 3 others
