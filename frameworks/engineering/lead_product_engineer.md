@@ -55,11 +55,11 @@ topics:
 ### Consulting
 - Ability to act as first point of contact for client if Principal is absent. Is able to answer questions and to support others. Can confidently lead  discussion and explain analysis in an area to both technical and non-technical stakeholders
 - Acts as an adviser to others on the project
-- Utilises knowledge of external issues and depth of experience to inform, challenge and define scope of work
-- Draws on a range of experiences and techniques to adapt communication style to challenging situations and audiences
-- Competent in the use of planning tools and milestones appropriate for the size and scale of the project
-- Shares knowledge and experience with others and proactively coaches and develops others
-- Discusses impact of other disciplines on area of work with confidence and knowledge
+- Is aware fof external business environment of client, as well as industry best practice and standards 
+- Uses depth and breadth of knowledge to confidently challenge the status quo
+- Is able to adjust communication style to fit audience and situation
+- Shares knowledge with others. Acts as a coach and mentor for peers.
+- Understands the impact of other disciplines on own area of work and is able to communicate dependencies
 
 ### Communication and Collaboration
 - Communicates with other project teams and is able to understand other people’s positions in debate. Is able to detach themselves personally from any solution, facilitates conversation and enables others to freely express their opinion
