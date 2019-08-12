@@ -59,12 +59,12 @@ topics:
 ---
 ### Consulting
 - Is an expert in this domain. Can implement solutions, plan consultancy sessions and train others
-- Develops and selects appropriate methods in unclear situations
+- Is able to select or develop appropriate solution when faced with a non-standard issue or ill-defined problem
 - Manages complex projects and multi disciplinary teams
 - Defines and manages deliverables and deadlines of others, as well as their own
-- Builds innovative and complex solutions which add value to client concerns
-- Applies influencing and leadership skills, adapting style where necessary to achieve alternative perspectives. Leads by example, applying management and business skills in own business.
-- Advises on the design of quality assurance processes
+- Is able to build solutions that add value to client concerns
+- Uses influencing skills to build consensus among team and motivate peers 
+- Successfully challenges the status quo when appropriate
 - Is a trusted advisor to the client
 
 ### Communication and Collaboration
