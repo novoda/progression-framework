@@ -58,10 +58,9 @@ topics:
 ### Consulting
 - Has limited familiarity with the subject but understands domain and can have a discussion
 - Has an understanding of project needs and can achieve team consensus on tasks, deliverables, outcomes and responsibilities. Is aware of core business structures, processes, management and disciplines
-- Researches and understands client agenda and issues
-- Identifies and uses a wide range of knowledge sources
-- Works in one or more stages of project delivery
-- Shows the ability to draw and close own deliverables
+- Aims to understand priorities, issues and agenda of the client
+- Is able o draw on a wide range of resources to inform decision-making and recommendations
+- Is able to identify and complete tasks with minimumal guidance
 
 ### Communication and Collaboration
 - Can work independently following briefing
@@ -80,7 +79,7 @@ topics:
 ### Novoda
 - Is self-motivated in their learning and actively looking for further learning opportunities
 - Shares knowledge and profile both internally and externally, through blogging, conference speaking and online engagement
-- Develops network to support and add value to client engagements, including within own company, clients and external professional networks
+- Develops network within the industry, both internally and externally
 
 ### Experience
 - Strong in 3 core skills and capable in 4 others 
