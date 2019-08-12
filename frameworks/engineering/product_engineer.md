@@ -67,11 +67,11 @@ topics:
 ### Consulting
 - Aware of consulting practices and able to share relevant information
 - Keenly aware of our client first mentality
-- Understands purpose and content of client proposals 
-- Demonstrates use of listening and questioning techniques to understand issues and problems
-- Works with others to develop mutually supportive relationships
-- Pro-actively identifies and communicates issues impacting progress of own work and that of client. Manages realistic expectations around opportunities and constraints
-- Complies with agreed quality management processes
+- Understands wider business context of client proposals 
+- Is able to ask targeted questions to understand issues and problems
+- Develops and maintains positive relationships with peers and clients
+- Is able to recognise and flag blockers that impact progress of own work and that of the client.
+- Complies with agreed style guidelines
 
 ### Communication and Collaboration
 - Main point of reference is peer group - converses with team on project subjects
