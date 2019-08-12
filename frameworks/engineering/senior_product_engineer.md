@@ -55,14 +55,11 @@ topics:
 ---
 ### Consulting
 - Able to build rapport with clients and confident in discussing a subject with clients. 
-- Manages stakeholder expectations, maintaining focus on all deliverables
-- Presents ideas convincingly to achieve specific outcomes
-- Demonstrates skills in building consensus and resolving conflict
-- Produces clear client correspondence and reports, selecting the most appropriate style to achieve desired outcome
-- Captures and builds knowledge in defined processes
-- Applies knowledge and technical expertise to support value creation, tailoring solutions to specific client requirements
-- Discusses impact of other disciplines on area of work with confidence and knowledge
-
+- Manages stakeholder expectations whilst balancing deliverables
+- Is able to communicate ideas with confidence in order to achieve specific aims
+- Is able to resolve conflict and build consensus within a team
+- Uses technical knowledge to add value to client projects and develops tailor made solutions
+- Understands the impact and dependencies of other disciplines on own area of responsibility
 
 ### Communication and Collaboration
 - Can report on progress to both technical and non-technical stakeholders, including clients. Is able to communicate risks and issues in plain language and able to document issues and track communication regarding the resolution of issues.
