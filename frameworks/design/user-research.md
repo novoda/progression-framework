@@ -1,7 +1,7 @@
 ---
 path: "/design/user-research"
-title: "🎯 User Research Framework"
-sidebarTitle: "🎯 User Research"
+title: "🍄 User Research Framework"
+sidebarTitle: "🍄 User Research"
 sidebarGroup: "design"
 yaml: false
 levels:
