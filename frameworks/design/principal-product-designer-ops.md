@@ -1,7 +1,7 @@
 ---
 path: "/design/principal-product-designer-ops"
-title: "🥯 Product Design Framework"
-sidebarTitle: "🥯 Principal Product Designer (Design Ops)"
+title: "🥨 Product Design Framework"
+sidebarTitle: "🥨 Principal Product Designer (Design Ops)"
 sidebarGroup: "design"
 yaml: false
 levels:
