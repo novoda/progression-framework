@@ -10,7 +10,7 @@ homepage:
 ## Experience
 ### Achievements
 
-Educated in design with practical experience delivering design solutions with a strong portfolio.
+Contributed to the successful release of at least one product.
 
 ## Delivery
 ### Overall Contribution
