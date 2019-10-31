@@ -10,7 +10,7 @@ homepage:
 ## Experience
 ### Achievements
 
-Educated in design with practical experience delivering design solutions with a strong portfolio.
+Experienced working in a professional team delivering end-to-end design solutions.
 
 ## Delivery
 ### Overall Contribution
