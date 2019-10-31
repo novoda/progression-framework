@@ -10,7 +10,7 @@ homepage:
 ## Experience
 ### Achievements
 
-Educated in design with practical experience delivering design solutions with a strong portfolio.
+Contributed to the successful release of multiple products. Proven experience impacting product success with demonstrated expertise and thought leadership in design research and strategy.
 
 ## Delivery
 ### Overall Contribution
