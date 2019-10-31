@@ -1,7 +1,7 @@
 ---
 path: "/design/senior-product-designer"
-title: "🥖 Product Design Framework"
-sidebarTitle: "🥖 Senior Product Designer"
+title: "🥞 Product Design Framework"
+sidebarTitle: "🥞 Senior Product Designer"
 sidebarGroup: "design"
 yaml: false
 levels:
