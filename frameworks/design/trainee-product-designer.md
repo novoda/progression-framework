@@ -7,6 +7,8 @@ yaml: false
 levels:
 homepage:
 ---
+You are starting your profession as a product designer. As an individual contributor, you are learning the core skills of product design, contributing to specific function-level challenges. You are designing interactions & UI for intuitive and valuable user experiences that enhance brand identity. You demonstrate curiosity with a desire to learn, contributing to continuous improvement within your project team.
+
 ## Experience
 ### Achievements
 
